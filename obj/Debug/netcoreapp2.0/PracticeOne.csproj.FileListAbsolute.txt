@@ -1,0 +1,11 @@
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\bin\Debug\netcoreapp2.0\PracticeOne.deps.json
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\bin\Debug\netcoreapp2.0\PracticeOne.runtimeconfig.json
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\bin\Debug\netcoreapp2.0\PracticeOne.runtimeconfig.dev.json
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\bin\Debug\netcoreapp2.0\PracticeOne.dll
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\bin\Debug\netcoreapp2.0\PracticeOne.pdb
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.csprojResolveAssemblyReference.cache
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.csproj.CoreCompileInputs.cache
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.AssemblyInfoInputs.cache
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.AssemblyInfo.cs
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.dll
+C:\Users\LabRatJack\Documents\SelfStudy\PracticeOne\obj\Debug\netcoreapp2.0\PracticeOne.pdb
